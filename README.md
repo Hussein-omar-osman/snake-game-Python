@@ -11,3 +11,7 @@ Activating virtual environment: source env/bin/activate
 Run: pip install -r requirements.txt to install
 
 Finally, have some fun and enjoy the simplest snake game.
+
+
+### Live play:
+![Screenshot](screenshot.png)
